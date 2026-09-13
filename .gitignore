@@ -1,0 +1,9 @@
+__pycache__
+.venv
+.python-version
+rokuos_perfetto_utils.egg-info/
+build/
+
+# Captures. Keep them in traces/ - they are large and are inputs, not
+# part of the project.
+traces/

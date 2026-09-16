@@ -11,4 +11,3 @@ dependencies = [
 
 [project.scripts]
 find-brs-cycles = "find_brs_cycles:main"
-channel-perf = "channel_perf:main"
